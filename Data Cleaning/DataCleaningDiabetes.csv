@@ -1,4 +1,4 @@
-patient_id,cholesterol_total,stabilized_glucose,hdl_cholesterol,chol_hdl_ratio,hba1c_percent,location,age,gender,height,weight,body_frame,systolic_bp_1,diastolic_bp_1,waist,hip,minutes_post_meal
+patient_id,cholesterol_total,stabilized_glucose,hdl_cholesterol,chol_hdl_ratio,hba1c_percent,location,age,gender,height_inches,weight_pounds,body_frame,systolic_bp_1,diastolic_bp_1,waist_inches,hip_inches,minutes_post_meal
 1000,203,82,56,3.6,4.31,Buckingham,46,female,62,121,medium,118,59,29,38,720
 1001,165,97,24,6.9,4.44,Buckingham,29,female,64,218,large,112,68,46,48,360
 1002,228,92,37,6.2,4.64,Buckingham,58,female,61,256,large,190,92,49,57,180
